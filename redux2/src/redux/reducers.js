@@ -1,5 +1,3 @@
-// reducers.js
-
 import { FETCH_MATCHES_REQUEST, FETCH_MATCHES_SUCCESS, FETCH_MATCHES_FAILURE } from './actions';
 
 const initialState = {
